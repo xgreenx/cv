@@ -2,4 +2,4 @@
 
 _Rust/C++/GO Software and Blockchain Developer, Based in Amsterdam, Netherland_ <br>
 
-<div style="text-align: right">[Email](xgreenx9999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aostesymskyi/) / [GitHub](https://github.com/xgreenx) / [Telegram](https://t.me/xgreenx99)/ +380663944720 </div>
+[Email](xgreenx9999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aostesymskyi/) / [GitHub](https://github.com/xgreenx) / [Telegram](https://t.me/xgreenx99)/ +380663944720
