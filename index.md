@@ -58,9 +58,52 @@ the blockchain(C++) with an execution layer for smart contracts(WASM Rust/TS Ass
 
 **C++/GO Blockchain Developer** [482.solutions](https://482.solutions) _(August 2018 - April 2020)_
 
+It was a company where I started work with blockchain.
+The main project was the customization and updating of the NEM blockchain, 
+adding new features, new plugins, performance testing, and optimizations. 
+Side projects were related to the integration of the blockchain with IoT.
+- Added metrics into the code and created a framework for performance testing of the blockchain. 
+  Based on the results of the testing:
+  - Optimized the processing of common transactions(x3) and custom transactions(x1.5).
+  - Found and fixed several bugs with race conditions and reported them to the NEM team.
+  - Found vulnerability with DDoS protection against invalid transactions that we fixed by changing the token economic model.
+  - Those metrics and that framework were used during network upgrades to find and fix regressions.
+- Designed and developed the first version of DFMS and integrated it with the blockchain. Integration includes:
+  - Implement new plugins on the blockchain to support storage manipulations and charge tokens for storage usage. 
+  - Actualization and refactoring of the [Golang SDK](https://github.com/proximax-storage/go-xpx-chain-sdk) for interactions with blockchain.
+  - Integration of new SDK and business logic into DFMS and CLI.
+  - All changes include the unit and e2e testing.
+- Developed a C++ SDK to interact with NEM/ProximaX blockchain from IoT devices.
+- Developed several examples of how IoT devices can interact with blockchain to show 
+  different use cases where blockchain can be integrated into real life.
 
+The work also included CI, adding and gathering of logs from different users and their analysis via kibana and elasticsearch.
 
+**Junior Haxe/C++ Developer** [The Product Engine](https://www.productengine.com) _(October 2016 - August 2018)_
+
+Most tasks were support and development of a new UI(Haxe) for different DVRs.
+But also ware tasks related to performance, rendering, memory leaks, debugging and implementing a new API on the backend side.
+- Refactored OneLineGuide(a separate screen to easily navigate TV shows)
+  to be compatible with the new UI. Changed the layout logic to work faster and send fewer requests.
+- Reimplemented the logic of the backend for Filtered Guide(a separate screen allows filtering content) to not crash with searches with a lot of content.
+- Removed a lot of memory leaks during image loading and caching and decreased the application's memory consumption two times.
+- Fixed different bugs related to text rendering in OpenFL on different platforms.
+- Found the root cause of several strange issues that were faced by some users sometimes via objdumping and debugging assembler code.
+
+During the work, I used a lot of Splunk to analyze the performance and stability of the screen developed by the team.
+
+**Junior C++/QT Developer** [ODISW](http://sprut-ow.net) _(January 2016 - June 2016)_
+Development of street lighting management project cities for several cities in Ukraine: Kirovograd, Mariupol, Mykolaiv, Theodosius, etc.
+- Stabilization the project to not crash.
+- Developed a new type of the user's terminal from scratch to remotely work with a more advanced electric control system..
+
+**Junior Swift/Objective-C** Freelance _(Jul 2015 - January 2016)_
+Developing an application for managing surveillance cameras from IOS(iPhone or iPad).
+POC of the client application and the MVP were developed quickly.
+After the designer created mockups and I applied them to the project.
+The project is not live in the AppStore due to a lack of funding and changing customer's plans.
 
 TODO:
 Board games
 Mathematic
+Technologies
