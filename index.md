@@ -7,9 +7,9 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherland. R
 ## 🔧 Development preferences 
 
 - Main languages:
-  - Rust - the language that I prefer the most. I enjoy its features, proc macros, and memory management.
+  - Rust - the language that I prefer to work with. I enjoy its features, proc macros, and memory management.
   - C/C++ - my first language from the university. I like its low-level stuff.
-  - Golang - the language that I prefer to write asynchronous code cause goroutines are a fantastic feature.
+  - Golang - goroutines are a fantastic feature and a perfect fit for writing asynchronous code.
 - Secondary languages:
   - Javescript/Nodejs - every project that I worked on somehow required the usage of JS.
   - Swift/Objective-C - in my free time, I like to develop some applications on my smartphone.
@@ -47,14 +47,22 @@ the blockchain(C++) with an execution layer for smart contracts(WASM Rust/TS Ass
 - Implemented main plugins(analogs of Cosmos Modules but on C++) of a new business logic on the blockchain.
 - Refactored the logic of the Merkel tree calculation and optimized(x2) the work of the unconfirmed cache.
 - Refactored the [Golang SDK](https://github.com/proximax-storage/go-xpx-chain-sdk) to be compatible with a new blockchain version.
-- Fully rework the execution level of the DFMS:
-  - Implemented a new system of events to parallelize the execution and fix previous bugs related to conflicting executions.
-  - Changed the work with storage to lock only data cells related to execution instead of the whole storage.
-  - Added support of new host functions and integrated them into VM to increase the functionality.
-  - Designed and implemented the consensus of executors for non-deterministic operations like HTTP requests etc.
-- Implemented simple [TS Assemblyscript](https://github.com/proximax-storage/ts-xpx-supercontract-sdk) to write smart contracts with TypeSccript and compile them into WASM to run on executors.
-- Refactored IPFS of the file system to be compatible with blockchain structure.
-- Debugging and fixing bugs on the blockchain side related to an inconsistent state, corrupted pointers, incorrect state reverts, vulnerabilities related to DDoS, and invalid transaction propagation.
+- Fully reworked the execution level of the DFMS:
+  - Implemented a new system of events to parallelize the execution.
+    - fix previous bugs related to conflicting executions.
+  - Changed the storage's workflow to lock only data cells related to execution instead of the whole storage.
+  - Added support of new host's functions
+    - integrated them into VM to increase the functionality.
+  - Designed and implemented the consensus of executors for non-deterministic operations(e.g. HTTP requests)
+- Implemented simple [TS Assemblyscript](https://github.com/proximax-storage/ts-xpx-supercontract-sdk) to write smart contracts with TypeScript
+  - compile them into WASM to run on executors.
+- Refactored IPFS Merkle DAG module of the file system to be compatible with blockchain structure.
+- Debugging and fixing bugs on the blockchain side related to 
+  - inconsistent state 
+  - corrupted pointers
+  - incorrect state reverts
+  - vulnerabilities related to DDoS
+  - invalid transaction propagation.
 
 **C++/GO Blockchain Developer** [482.solutions](https://482.solutions) _(August 2018 - April 2020)_
 
@@ -97,7 +105,7 @@ Development of street lighting management project cities for several cities in U
 - Stabilization the project to not crash.
 - Developed a new type of the user's terminal from scratch to remotely work with a more advanced electric control system..
 
-**Junior Swift/Objective-C** Freelance _(Jul 2015 - January 2016)_
+**Junior Swift/Objective-C** Freelance _(July 2015 - January 2016)_
 Developing an application for managing surveillance cameras from IOS(iPhone or iPad) via FFmpeg.
 POC of the client application and the MVP were developed quickly.
 After the designer created mockups, and I applied them to the project.
@@ -135,4 +143,4 @@ implement it and watch how well it works :)
 In my free time, I like to spend time with friends playing board games 🎲 and computer games 👾.
 Like everything that is related to mathematics :)
 
-I put "=)", ":)" or "=D" everywhere in my messages =D. Always in the good mood :)
+I like to leave "=)", ":)" or "=D" everywhere =D
