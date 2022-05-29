@@ -36,8 +36,7 @@ there was several project of portfolio companies related to ink!, substrate deve
 - Decreased the size of smart contracts(10-15%) to improve on-chain performance.
 - Designed and implemented standards of [Fungible](https://github.com/w3f/PSPs/blob/master/PSPs/psp-22.md), [Non-Fungible](https://github.com/w3f/PSPs/blob/master/PSPs/psp-34.md), and [Multi tokens](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-35.md) to unify the interface for the WASM smart contract ecosystem.
 - Optimized(x25) the Graph indexer for PancakeSwap to process transactions with the speed of the binance smart chain.
-
-During the work, I interviewed candidates.
+- Technical interviewer for a dozen of candidates. Not to say I enjoy this, but I can quickly understand if a candidate fits a technical role.
 
 **GO/C++/Rust Core Blockchain Developer** [ProximaX](https://www.proximax.io) _(April 2020 - April 2021)_
 
