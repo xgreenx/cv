@@ -9,7 +9,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherland. R
 - Main languages:
   - Rust - the language that I prefer to work with. I enjoy its features, proc macros, and memory management.
   - C/C++ - my first language from the university. I like its low-level stuff.
-  - Golang - goroutines are a fantastic feature and a perfect fit for writing asynchronous code.
+  - Golang - the language that I prefer to write asynchronous code cause goroutines are a fantastic feature.
 - Secondary languages:
   - Javescript/Nodejs - every project that I worked on somehow required the usage of JS.
   - Swift/Objective-C - in my free time, I like to develop some applications on my smartphone.
