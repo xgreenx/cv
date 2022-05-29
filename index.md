@@ -7,7 +7,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherland. R
 ## 🔧 Development preferences 
 
 - Main languages:
-  - Rust - the language that I prefer to work with. I enjoy its features, proc macros, and memory management.
+  - Rust - the language that I prefer the most. I enjoy its features, proc macros, and memory management.
   - C/C++ - my first language from the university. I like its low-level stuff.
   - Golang - goroutines are a fantastic feature and a perfect fit for writing asynchronous code.
 - Secondary languages:
