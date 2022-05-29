@@ -135,4 +135,4 @@ implement it and watch how well it works :)
 In my free time, I like to spend time with friends playing board games 🎲 and computer games 👾.
 Like everything that is related to mathematics :)
 
-I like to leave "=)", ":)" or "=D" everywhere =D
+I put "=)", ":)" or "=D" everywhere in my messages =D. Always in the good mood :)
