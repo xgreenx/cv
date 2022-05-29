@@ -2,7 +2,7 @@
 
 _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherland. Resident of Ukraine 🇺🇦_
 
-[Email](xgreenx9999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aostesymskyi/) / [GitHub](https://github.com/xgreenx) / [Telegram](https://t.me/xgreenx99) / +380663944720
+[Email](mailto:xgreenx9999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aostesymskyi/) / [GitHub](https://github.com/xgreenx) / [Telegram](https://t.me/xgreenx99) / +380663944720
 
 ## 🔧 Development preferences 
 
@@ -120,7 +120,7 @@ Developed an analog of TeamViewer for local usage called [Desktop Sharing](https
 via go-libp2p, c-go and FFmpeg.
 
 **24th place on ½ ACM-ICPC programming olympiad** _(2017)_ <br>
-My team [ONU_Luckomotive](https://icpc.baylor.edu/regionals/finder/SEERC-2017/standings).
+My team [ONU_Luckomotive](https://icpc.global/regionals/finder/SEERC-2017/standings).
 
 **Solved many programming olympiad problems** _(2016-2017)_ <br>
 To improve my skill in olympiad programming solved many problems on different online platforms for training:
