@@ -12,7 +12,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. 
   - Golang - is the language that I prefer to write asynchronous code cause goroutines are a fantastic feature.
 - Secondary languages:
   - Javascript/Nodejs - every project that I worked on somehow required the usage of JS.
-    Swift/Objective-C - I like to develop some applications on my smartphone in my free time.
+  - Swift/Objective-C - I like to develop some applications on my smartphone in my free time.
   - C#/Java - studied in the university and after interacting with it on different works.
   - Haxe - is an unusual language, but I used it for around two years together with C++.
   - Python - in the university, I played with machine learning, and I have basic knowledge of that language.
@@ -90,7 +90,7 @@ The work also included CI, adding and gathering logs from different users and th
 **Junior Haxe/C++ Developer** [The Product Engine](https://www.productengine.com) _(October 2016 - August 2018)_
 
 Most tasks were support and development of a new UI(Haxe) for different DVRs.
-But also ware tasks related to performance, rendering, memory leaks, debugging and implementing a new API on the backend side.
+But also were tasks related to performance, rendering, memory leaks, debugging and implementing a new API on the backend side.
 - Refactored OneLineGuide(a separate screen to easily navigate TV shows)
   to be compatible with the new UI. Changed the layout logic to work faster and send fewer requests.
 - Reimplemented the logic of the backend for Filtered Guide(a separate screen allows filtering content) to not crash with searches with a lot of content.
