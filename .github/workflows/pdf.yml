@@ -1,0 +1,5 @@
+- name: CV to PDF
+  uses: misaelnieto/web_to_pdf_action@master
+  with:
+    webPageURL: https://xgreenx.github.io/cv/
+    outputFile: cv.pdf
