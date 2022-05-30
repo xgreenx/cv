@@ -13,7 +13,7 @@ jobs:
       - name: Upload cv to release
         uses: svenstaro/upload-release-action@v2
         with:
-          repo_token: ${{ secrets.CV_UPLOAD_TOKEN }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: cv.pdf
           tag: latest
           overwrite: true
