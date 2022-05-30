@@ -9,6 +9,7 @@ jobs:
       - name: Convert site into PDF
         run: |
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
+          sudo apt-get install texlive-xetex
           sudo apt-get install pandoc
           pandoc https://xgreenx.github.io/cv/ -f html-native_divs -o cv.pdf --pdf-engine=xelatex
 #      Looks ugly
