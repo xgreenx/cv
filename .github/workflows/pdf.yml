@@ -10,3 +10,11 @@ jobs:
         with:
           webPageURL: https://xgreenx.github.io/cv/
           outputFile: cv.pdf
+      - name: Upload cv to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.CV_UPLOAD_TOKEN }}
+          file: cv.pdf
+          tag: latest
+          overwrite: true
+          body: "Latest CV in PDF"
