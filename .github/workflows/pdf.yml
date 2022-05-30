@@ -9,7 +9,7 @@ jobs:
       - name: Convert site into PDF
         run: |
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-          apt get install ./wkhtmltox_0.12.6-1.focal_amd64.deb
+          apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
           wkhtmltopdf https://xgreenx.github.io/cv/ cv.pdf
 #      Looks ugly
 #      - uses: misaelnieto/web_to_pdf_action@master
