@@ -27,7 +27,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. 
 **Rust Core Blockchain Developer** [Supercolony](https://supercolony.net) _(April 2021 - Present)_
 
 The work is related to evolving the ecosystem and WASM smart contract development. Except for that,
-I worked on several projects for portfolio companies related to ink!, substrate development.
+I worked on several projects for portfolio companies related to ink! and substrate development.
 - Successfully ported two big projects from Solidity to ink!(30+ contracts) that increased the coverage of the audience.
 - Designed and implemented [OpenBrush](https://github.com/Supercolony-net/openbrush-contracts) as a first library(analog of OpenZeppelin) to ease out WASM smart contract development experience in the dotsama community.
 - Implemented functionality for upgradeable contracts on all execution layers.
@@ -82,7 +82,7 @@ Side projects were related to the integration of the blockchain with IoT.
   - All changes include the unit and e2e testing.
 - Developed a C++ SDK to interact with NEM/ProximaX blockchain from IoT devices.
 - Developed several examples of how IoT devices can interact with blockchain to show
-  different use cases where blockchain can be integrated into real life.
+  various use cases where blockchain can be integrated into real life.
 
 The work also included CI, adding and gathering logs from different users and their analysis via kibana and elasticsearch.
 
@@ -101,14 +101,14 @@ During the work, I used a lot of Splunk to analyze the performance and stability
 
 **Junior C++/QT Developer** [ODISW](http://sprut-ow.net) _(January 2016 - June 2016)_
 Development of city lighting management project for several cities in Ukraine: Kirovograd, Mariupol, Mykolaiv, Theodosius, etc.
-- Stabilization of the project to not crash.
-- Developed a new type of the user's terminal from scratch to remotely work with a more advanced electric control system.
+- Stabilization of the project to avoid crashes.
+- Developed a new type of the user's terminal from scratch to work with an advanced electric control system remotely.
 
 **Junior Swift/Objective-C** Freelance _(Jul 2015 - January 2016)_
 Developing an application for managing surveillance cameras from IOS(iPhone or iPad) via FFmpeg.
 POC of the client application and the MVP were developed quickly.
 After the designer created mockups, I applied them to the project.
-The project is not live in the App Store due to a lack of funding and changing customer's plans.
+The project is not live in the App Store cause the customer changed his plans.
 
 ## 📖  Education
 **Diploma Master's degree in the Applied Mathematics.** in Odessa National University I.I.Mechnikov<br>
