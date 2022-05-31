@@ -1,2 +1,6 @@
 title: Green's CV
 theme: jekyll-theme-cayman
+header:
+  actions:
+    - label: "PDF"
+      url: "https://github.com/xgreenx/cv/releases/download/latest/cv.pdf"

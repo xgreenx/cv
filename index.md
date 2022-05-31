@@ -1,21 +1,6 @@
-<style>
-header {
-  display: none;
-}
-
-img.emoji {
-    height: 1em;
-    width: 1em;
-    margin: 0 .05em 0 .1em;
-    vertical-align: -0.1em;
-}
-</style>
-<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
-<script>window.onload = function () { twemoji.parse(document.body);}</script>
-
 # Anatolii Osetsymskyi
 
-_Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. A resident of Ukraine 🇺🇦_
+_Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. A resident of Ukraine_  🇺🇦
 
 [Email](mailto:xgreenx9999@gmail.com) / [LinkedIn](https://www.linkedin.com/in/aostesymskyi/) / [GitHub](https://github.com/xgreenx) / [Telegram](https://t.me/xgreenx99) / +380663944720
 
@@ -158,3 +143,18 @@ In my free time, I like to spend time with friends playing board games 🎲 and 
 Like everything related to mathematics :)
 
 I put "=)", ":)" or "=D" everywhere in my messages =D. Always in a good mood :)
+
+<style>
+header {
+  display: none;
+}
+
+img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+}
+</style>
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>
