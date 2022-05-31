@@ -21,7 +21,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: cv.pdf
-          asset_name: "Anatolii Osetymskyi CV.pdf"
+          asset_name: Anatolii_Osetymskyi_CV.pdf
           tag: latest
           overwrite: true
           body: "PDF version of the latest CV"
