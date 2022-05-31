@@ -1,3 +1,14 @@
+<style>
+    img.emoji {
+    height: 1em;
+    width: 1em;
+    margin: 0 .05em 0 .1em;
+    vertical-align: -0.1em;
+}
+</style>
+<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
+<script>window.onload = function () { twemoji.parse(document.body);}</script>
+
 # Anatolii Osetsymskyi
 
 _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. A resident of Ukraine 🇺🇦_
