@@ -1,6 +1,10 @@
 name: CV to PDF
 
-on: [push]
+on:
+  workflow_run:
+    workflows: ['pages-build-deployment']
+    types:
+      - completed
 
 jobs:
   pdf:
