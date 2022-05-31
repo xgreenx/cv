@@ -145,10 +145,6 @@ Like everything related to mathematics :)
 I put "=)", ":)" or "=D" everywhere in my messages =D. Always in a good mood :)
 
 <style>
-header {
-  display: none;
-}
-
 img.emoji {
     height: 1em;
     width: 1em;
