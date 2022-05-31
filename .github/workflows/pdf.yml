@@ -15,7 +15,7 @@ jobs:
           wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
           sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
           sudo apt install fonts-noto-color-emoji -y
-          wkhtmltopdf --user-style-sheet pdf.css --encoding 'UTF-8' https://xgreenx.github.io/cv/ cv.pdf
+          wkhtmltopdf --user-style-sheet ./pdf.css --encoding 'UTF-8' https://xgreenx.github.io/cv/ cv.pdf
 
       - name: Upload cv to release
         uses: svenstaro/upload-release-action@v2

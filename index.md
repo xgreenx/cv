@@ -20,8 +20,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. 
   - Mac OS - last two years, I've been using that system as the main.
   - Linux - was the primary system for development before Mac OS. I worked with Ubuntu image and tried Debian and other distributives in most cases.
   - Windows - I used that system for development at the beginning of my career. But honestly, it doesn't fit for development=)
-
-
+  
 ## 💼 Work experience
 
 **Rust Core Blockchain Developer** [Supercolony](https://supercolony.net) _(April 2021 - Present)_
@@ -57,9 +56,8 @@ the blockchain(C++) with an execution layer for smart contracts(WASM Rust/TS Ass
   - compile them into WASM to run on executors.
 - Refactored IPFS Merkle DAG module of the file system to be compatible with blockchain structure.
 - Debugging and fixing bugs on the blockchain side related to
-  - inconsistent state
+  - inconsistent state due to incorrect state reverts
   - corrupted pointers
-  - incorrect state reverts
   - vulnerabilities related to DDoS
   - invalid transaction propagation
 
@@ -137,9 +135,7 @@ To improve my skill in olympiad programming solved many problems on different on
 
 ## 👤 About
 I have an inquisitive mind and enjoy solving different problems. I like to come up with a solution to the problem,
-implement it and watch how well it works :)
-
+implement it and watch how well it works :) <br>
 In my free time, I like to spend time with friends playing board games 🎲 and computer games 👾.
-Like everything related to mathematics :)
-
+Like everything related to mathematics :) <br>
 I put "=)", ":)" or "=D" everywhere in my messages =D. Always in a good mood :)
