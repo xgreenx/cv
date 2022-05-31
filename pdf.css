@@ -1,6 +1,8 @@
 header {
+    visibility: hidden !important;
     display: none !important;
 }
 footer {
+    visibility: hidden !important;
     display: none !important;
 }

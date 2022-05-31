@@ -135,7 +135,9 @@ To improve my skill in olympiad programming solved many problems on different on
 
 ## 👤 About
 I have an inquisitive mind and enjoy solving different problems. I like to come up with a solution to the problem,
-implement it and watch how well it works :) <br>
+implement it and watch how well it works :)
+
 In my free time, I like to spend time with friends playing board games 🎲 and computer games 👾.
-Like everything related to mathematics :) <br>
+Like everything related to mathematics :)
+
 I put "=)", ":)" or "=D" everywhere in my messages =D. Always in a good mood :)
