@@ -143,14 +143,3 @@ In my free time, I like to spend time with friends playing board games 🎲 and 
 Like everything related to mathematics :)
 
 I put "=)", ":)" or "=D" everywhere in my messages =D. Always in a good mood :)
-
-<style>
-img.emoji {
-    height: 1em;
-    width: 1em;
-    margin: 0 .05em 0 .1em;
-    vertical-align: -0.1em;
-}
-</style>
-<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js"></script>
-<script>window.onload = function () { twemoji.parse(document.body);}</script>
