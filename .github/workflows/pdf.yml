@@ -8,12 +8,12 @@ on:
 
 jobs:
   pdf:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Convert site into PDF
         run: |
-          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.focal_amd64.deb
-          sudo apt install ./wkhtmltox_0.12.6-1.focal_amd64.deb
+          wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-3/wkhtmltox_0.12.6.1-3.jammy_amd64.deb
+          sudo apt install ./wkhtmltox_0.12.6.1-3.jammy_amd64.deb
           wkhtmltopdf --user-style-sheet "file://${PWD}/pdf.css" https://xgreenx.github.io/cv/ cv.pdf
 
       - name: Upload cv to release
