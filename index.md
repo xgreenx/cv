@@ -7,7 +7,7 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. 
 ## 🔧 Development preferences
 
 - Main languages:
-  - Rust - is the language that I prefer the most. I enjoy its features, proc macros, and memory management.
+  - Rust - is the language that I prefer the most. I enjoy its features, proc macros, trait system, async syntax, and memory management.
   - C/C++ - my first language from the university. I like its low-level stuff.
   - Golang - is the language that I prefer to write asynchronous code cause goroutines are a fantastic feature.
 - Secondary languages:
@@ -17,13 +17,37 @@ _Rust/C++/GO Software and Blockchain Developer, Live in Amsterdam, Netherlands. 
   - Haxe - is an unusual language, but I used it for around two years together with C++.
   - Python - in the university, I played with machine learning, and I have basic knowledge of that language.
 - OS:
-  - Mac OS - last two years, I've been using that system as the main.
-  - Linux - was the primary system for development before Mac OS. I worked with Ubuntu image and tried Debian and other distributives in most cases.
+  - Mac OS - last five years, I've been using that system as the main.
+  - Linux - was the primary system for development before Mac OS. I worked with Ubuntu image and tried Debian and other distributive in most cases. Often used in dockers.
   - Windows - I used that system for development at the beginning of my career. But honestly, it doesn't fit for development=)
   
 ## 💼 Work experience
 
-**Rust Core Blockchain Developer** [Supercolony](https://supercolony.net) _(April 2021 - Present)_
+**Rust Core Team Lead** [Fuel](https://fuel.network) _(August 2022 - Present)_
+
+I started as a Rust Core Blockchain Developer and was promoted to Team Lead of the Client team after 9 months.
+The Fuel is a modular execution layer for the blockchain ecosystem. It is designed to be fast, secure, and scalable.
+It has its own virtual FuelVM, which interprets the Sway bytecode.
+I and my team are responsible for:
+- Maintaining and actualization of the [specification](https://github.com/FuelLabs/fuel-specs) for the FuelVM.
+- Developing and maintaining the [FuelVM](https://github.com/FuelLabs/fuel-vm).
+- Improving and evolving the [Fuel-core](https://github.com/FuelLabs/fuel-core) - the node of the Fuel chain.
+
+While I was a team lead, we delivered a mainnet version of the `fuel-core`
+with upgradability and a good attack resilience level. Performed several major upgrades of the network
+including releasing of ZK opcodes, optimizing performance of the FuelVM, reworking transaction pool
+and production to emit pre-confirmations, switching from Ethereum DA to Eigen DA, and achieving ultra throughput(TPS).
+However, it was not due to my leadership skills; the team was simply good and was able to manage (almost) on its own.
+I was coordinating and reviewing changes.
+
+Outside the team lead work as a developer, I accomplished: 
+- Refactored the codebase and structure of the project to simplify future work: [https://github.com/FuelLabs/fuel-core/pull/1694](1694), [703](https://github.com/FuelLabs/fuel-vm/pull/703), [364](https://github.com/FuelLabs/fuel-vm/pull/364), [872](https://github.com/FuelLabs/fuel-core/pull/872), [863](https://github.com/FuelLabs/fuel-core/pull/863), [875](https://github.com/FuelLabs/fuel-core/pull/875), [716](https://github.com/FuelLabs/fuel-core/pull/716), [583](https://github.com/FuelLabs/fuel-core/pull/583)
+    - At some point, my proposal to do refactoring of the whole `fuel-core` was accepted, and we started collaborative work on [it](https://github.com/FuelLabs/fuel-core/pull/839). For several days in a row, all team members were contributing to the refactoring, and at the end, we got a good and clear structure of the project with a clear relationship.
+- Optimized `fuel-core` and `fuel-vm` to achieve a high throughput. Some examples of performance related changes: [1207](https://github.com/FuelLabs/fuel-core/pull/1207), [1141](https://github.com/FuelLabs/fuel-core/pull/1141), todo!().
+- [Implemented forkless upgrade](https://github.com/FuelLabs/fuel-core/pull/1716) of the Fuel chain, allowing to patch any issues in the state transition function for all nodes in the network. Also added support for [upgrading consensus parameters](https://github.com/FuelLabs/fuel-core/pull/1826).
+- Overall there is a lot of things which I touched in the codebase, so you can check yourself [fuel-vm](https://github.com/FuelLabs/fuel-vm/pulls?q=is%3Apr+is%3Aclosed+author%3Axgreenx) or [fuel-core](https://github.com/FuelLabs/fuel-core/pulls?page=1&q=is%3Apr+is%3Aclosed+author%3Axgreenx).
+
+**Rust Core Blockchain Developer** [Supercolony](https://supercolony.net) _(April 2021 - August 2022)_
 
 The work is related to evolving the ecosystem and WASM smart contract development. Except for that,
 I worked on several projects for portfolio companies related to ink! and substrate development.
